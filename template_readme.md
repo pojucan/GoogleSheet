@@ -14,7 +14,7 @@ $$ \nu =  \frac{teste}{teste}$$
 - banana
 - Orange
 
-> *bloco de anotações*
+> *bloco de anotações* \
 > *segundo teste de blocos*
 
 1. Banana 
@@ -64,6 +64,7 @@ a^2+b^2=c^2
 ~~~
 
 Este texto possui uma anotação de rodapé.[^1]
+
 [^1]: *Este é meu rodapé*.
 
 ![Tirando Foto](https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png)
