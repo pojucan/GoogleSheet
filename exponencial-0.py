@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 """
-Lendo um arquivo .xlsx com pandas do Google Sheets e criando e abordando por data 
+Lendo um arquivo .xlsx com pandas do Google Sheets e abordando por data 
 frame:
 """
 # Database do Google Sheet:
