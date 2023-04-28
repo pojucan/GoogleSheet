@@ -12,7 +12,7 @@ import pandas as pd
 """
 Lendo um arquivo .xlsx do Google Sheets com pandas e abordando por data frame:
 """
-# ID do arquivo no Google Sheets:
+# ID do arquivo no Google Sheets::
 pasta_id = '1tcWCH0K3ZeDecAI9JFrEOvimTEgMh5Na'
 
 # Planilha data da pasta data no Google Sheets:
